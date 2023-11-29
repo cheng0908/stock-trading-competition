@@ -25,3 +25,8 @@
 - 電子郵件：cscheng5282@gmail.com
 
 感謝您使用我們的交易程式！祝您交易順利！
+
+
+## 畫面截屏及說明
+
+![explanation.png](screenshots/explanation.png)
